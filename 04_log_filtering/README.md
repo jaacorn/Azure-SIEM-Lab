@@ -3,7 +3,7 @@
 1. Add a custom log to the Log Analytics Workspace
     - add your failed_rdp.log to the Workspace
 
-2. In the Log Analytics, create a custom query to organize your logs using KQL
+2. In the Log Analytics, create a custom query to organize your logs using KQL (example below)
 
 Sample KQL Query
 ```

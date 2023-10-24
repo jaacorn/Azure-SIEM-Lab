@@ -2,9 +2,9 @@
 
 1. Connect to the virtual machine via RDP using the public IP address
 
-2. Turn off all firewall settings on the VM
+2. Turn off all Firewall settings on the VM
 
-3. Get a free API key from ipgeolocation.io
+3. Get a free API key from ```https://ipgeolocation.io```
 
 4. Download the Powershell script from ```https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1```
 

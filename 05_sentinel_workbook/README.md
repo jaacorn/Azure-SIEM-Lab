@@ -9,8 +9,8 @@ FAILED_RDP_WITH_GEO_CL
 | where sourcehost != ""
 | summarize event_count=count() by username, state, country, latitude, longitude, destinationhost, sourcehost, label, timestamp
 ```
-this is the final query I ended with to view the results on a map
+This is the final query I ended with to view the results on a map
 
 3. Set your query to be displayed by world map
 
-Note: I also created a second query to display top 10 most common user names attempted. All done via KQl queries. Picure of the map is in the pictures directory
+Note: I also created a second query to display top 10 most common user names attempted. All done via KQl queries. Picure of the map is in the pictures directory.
