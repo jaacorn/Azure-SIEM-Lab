@@ -9,6 +9,7 @@
 4. Download the Powershell script from ```https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1```
 
 5. Add your API key to the Powershell script
+---Sample from Josh Madakor's powershell script---
 ```shell
 ﻿# Get API key from here: https://ipgeolocation.io/
 $API_KEY      = "ENTER_API_KEY_HERE"
